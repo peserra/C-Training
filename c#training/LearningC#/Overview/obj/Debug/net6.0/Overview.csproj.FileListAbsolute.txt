@@ -1,0 +1,15 @@
+/home/pserra/Workspace/c#training/LearningC#/Overview/bin/Debug/net6.0/Overview
+/home/pserra/Workspace/c#training/LearningC#/Overview/bin/Debug/net6.0/Overview.deps.json
+/home/pserra/Workspace/c#training/LearningC#/Overview/bin/Debug/net6.0/Overview.runtimeconfig.json
+/home/pserra/Workspace/c#training/LearningC#/Overview/bin/Debug/net6.0/Overview.dll
+/home/pserra/Workspace/c#training/LearningC#/Overview/bin/Debug/net6.0/Overview.pdb
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/Overview.csproj.AssemblyReference.cache
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/Overview.GeneratedMSBuildEditorConfig.editorconfig
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/Overview.AssemblyInfoInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/Overview.AssemblyInfo.cs
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/Overview.csproj.CoreCompileInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/Overview.dll
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/refint/Overview.dll
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/Overview.pdb
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/Overview.genruntimeconfig.cache
+/home/pserra/Workspace/c#training/LearningC#/Overview/obj/Debug/net6.0/ref/Overview.dll

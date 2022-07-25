@@ -1,0 +1,15 @@
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/C#Strings.csproj.AssemblyReference.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/C#Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/C#Strings.AssemblyInfoInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/C#Strings.AssemblyInfo.cs
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/C#Strings.csproj.CoreCompileInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/bin/Debug/net6.0/C#Strings
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/bin/Debug/net6.0/C#Strings.deps.json
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/bin/Debug/net6.0/C#Strings.runtimeconfig.json
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/bin/Debug/net6.0/C#Strings.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/bin/Debug/net6.0/C#Strings.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/C#Strings.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/refint/C#Strings.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/C#Strings.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/C#Strings.genruntimeconfig.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/obj/Debug/net6.0/ref/C#Strings.dll

@@ -1,0 +1,15 @@
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/bin/Debug/net6.0/StringParsing
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/bin/Debug/net6.0/StringParsing.deps.json
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/bin/Debug/net6.0/StringParsing.runtimeconfig.json
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/bin/Debug/net6.0/StringParsing.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/bin/Debug/net6.0/StringParsing.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/StringParsing.csproj.AssemblyReference.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/StringParsing.GeneratedMSBuildEditorConfig.editorconfig
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/StringParsing.AssemblyInfoInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/StringParsing.AssemblyInfo.cs
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/StringParsing.csproj.CoreCompileInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/StringParsing.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/refint/StringParsing.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/StringParsing.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/StringParsing.genruntimeconfig.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Strings/StringParsing/obj/Debug/net6.0/ref/StringParsing.dll

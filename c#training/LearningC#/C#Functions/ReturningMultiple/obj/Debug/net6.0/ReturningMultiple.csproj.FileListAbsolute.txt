@@ -1,0 +1,15 @@
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/bin/Debug/net6.0/ReturningMultiple
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/bin/Debug/net6.0/ReturningMultiple.deps.json
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/bin/Debug/net6.0/ReturningMultiple.runtimeconfig.json
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/bin/Debug/net6.0/ReturningMultiple.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/bin/Debug/net6.0/ReturningMultiple.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/ReturningMultiple.csproj.AssemblyReference.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/ReturningMultiple.GeneratedMSBuildEditorConfig.editorconfig
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/ReturningMultiple.AssemblyInfoInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/ReturningMultiple.AssemblyInfo.cs
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/ReturningMultiple.csproj.CoreCompileInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/ReturningMultiple.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/refint/ReturningMultiple.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/ReturningMultiple.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/ReturningMultiple.genruntimeconfig.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/ReturningMultiple/obj/Debug/net6.0/ref/ReturningMultiple.dll

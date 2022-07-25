@@ -1,0 +1,15 @@
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/bin/Debug/net6.0/StringRepresentation
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/bin/Debug/net6.0/StringRepresentation.deps.json
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/bin/Debug/net6.0/StringRepresentation.runtimeconfig.json
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/bin/Debug/net6.0/StringRepresentation.dll
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/bin/Debug/net6.0/StringRepresentation.pdb
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/StringRepresentation.csproj.AssemblyReference.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/StringRepresentation.GeneratedMSBuildEditorConfig.editorconfig
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/StringRepresentation.AssemblyInfoInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/StringRepresentation.AssemblyInfo.cs
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/StringRepresentation.csproj.CoreCompileInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/StringRepresentation.dll
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/refint/StringRepresentation.dll
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/StringRepresentation.pdb
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/StringRepresentation.genruntimeconfig.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/StringRepresentation/obj/Debug/net6.0/ref/StringRepresentation.dll

@@ -1,0 +1,15 @@
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/bin/Debug/net6.0/refAndOutPatameters
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/bin/Debug/net6.0/refAndOutPatameters.deps.json
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/bin/Debug/net6.0/refAndOutPatameters.runtimeconfig.json
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/bin/Debug/net6.0/refAndOutPatameters.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/bin/Debug/net6.0/refAndOutPatameters.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/refAndOutPatameters.csproj.AssemblyReference.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/refAndOutPatameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/refAndOutPatameters.AssemblyInfoInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/refAndOutPatameters.AssemblyInfo.cs
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/refAndOutPatameters.csproj.CoreCompileInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/refAndOutPatameters.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/refint/refAndOutPatameters.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/refAndOutPatameters.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/refAndOutPatameters.genruntimeconfig.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/refAndOutParameters/obj/Debug/net6.0/ref/refAndOutPatameters.dll

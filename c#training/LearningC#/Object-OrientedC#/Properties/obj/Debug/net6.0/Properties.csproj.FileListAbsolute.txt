@@ -1,0 +1,15 @@
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/Properties.csproj.AssemblyReference.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/Properties.AssemblyInfoInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/Properties.AssemblyInfo.cs
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/Properties.csproj.CoreCompileInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/bin/Debug/net6.0/Properties
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/bin/Debug/net6.0/Properties.deps.json
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/bin/Debug/net6.0/Properties.runtimeconfig.json
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/bin/Debug/net6.0/Properties.dll
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/bin/Debug/net6.0/Properties.pdb
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/Properties.dll
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/refint/Properties.dll
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/Properties.pdb
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/Properties.genruntimeconfig.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Properties/obj/Debug/net6.0/ref/Properties.dll

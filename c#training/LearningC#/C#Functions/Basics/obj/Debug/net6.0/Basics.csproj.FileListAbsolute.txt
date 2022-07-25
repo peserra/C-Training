@@ -1,0 +1,15 @@
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/bin/Debug/net6.0/Basics
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/bin/Debug/net6.0/Basics.deps.json
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/bin/Debug/net6.0/Basics.runtimeconfig.json
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/bin/Debug/net6.0/Basics.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/bin/Debug/net6.0/Basics.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/Basics.csproj.AssemblyReference.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/Basics.AssemblyInfoInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/Basics.AssemblyInfo.cs
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/Basics.csproj.CoreCompileInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/Basics.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/refint/Basics.dll
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/Basics.pdb
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/Basics.genruntimeconfig.cache
+/home/pserra/Workspace/c#training/LearningC#/C#Functions/Basics/obj/Debug/net6.0/ref/Basics.dll

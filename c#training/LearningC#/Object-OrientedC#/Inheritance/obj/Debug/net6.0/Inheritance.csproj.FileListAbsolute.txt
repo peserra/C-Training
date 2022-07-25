@@ -1,0 +1,15 @@
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/bin/Debug/net6.0/Inheritance
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/refint/Inheritance.dll
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
+/home/pserra/Workspace/c#training/LearningC#/Object-OrientedC#/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll
